@@ -1,4 +1,6 @@
-abstract class Transport {
+package Spring_1;
+
+public abstract class Transport {
     private String marka;
 
     public Transport(String marka) {
